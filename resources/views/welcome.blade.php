@@ -55,7 +55,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              <img src="image/Decorative-Image-2.png" width="40" height="40" style="border-radius: 20px; border: 1px solid;" alt="">
+              <img src="image/profile.png" width="40" height="40" style="border-radius: 20px; border: 1px solid;" alt="">
             </a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="{{ url('/login') }}">Masuk</a>
@@ -82,7 +82,7 @@
         </div>
         <button class="s1-div-5">Reservasi Sekarang</button>
       </div>
-      <img src="image/hero-1.png" width="550" height="550" alt="Hero Image" class="img-1" />
+      <img src="image/hero-1.png" width="500" height="500" alt="Hero Image" class="img-1" />
     </div>
   </div>
 

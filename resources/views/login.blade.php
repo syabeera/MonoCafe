@@ -31,7 +31,7 @@
         <input type="email" placeholder="Masukkan Email atau No. Telpon Anda">
         <input type="password" placeholder="Masukkan Kata Sandi">
         <input type="password" class="konfirmasi" placeholder="Konfirmasi Kata Sandi">
-        <a href="{{ url('/') }}" class="button">daftar</a>
+        <a href="{{ url('/') }}" class="button">Daftar</a>
       </form>
       <!-- form login -->
       <form action="" class="login-account">
