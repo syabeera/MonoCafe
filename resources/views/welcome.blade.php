@@ -142,7 +142,7 @@
               Ruang Indoor dan Outdoor
             </div>
             <div class="s3-div-10">
-            Reservasi Online
+               Reservasi Online
               <br />
               Pilihan Menu Beragam
               <br />
@@ -224,15 +224,14 @@
           <img src="image/logo-white.png"  alt="Logo" class="footer-logo" />
         </div>
         <div class="menu">
-            <ul style="list-style-type: none;">
-              <li style="line-height: 1.5;">beranda</li>
-              <li style="line-height: 1.5;">menu</li>
-              <li style="line-height: 1.5;">reservasi</li>
-              <li style="line-height: 1.5;">tentang kami</li>
-              <li style="line-height: 1.5;">kontak</li>
-            </ul>
-          </div>
-
+          <ul style="list-style-type: none;">
+            <li>beranda</li>
+            <li>menu</li>
+            <li>reservasi</li>
+            <li>tentang kami</li>
+            <li>kontak</li>
+          </ul>
+        </div>
         <div class="contact">
           <ul style="list-style-type: none; font-size: 18px;">
             <li><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 512 512">
